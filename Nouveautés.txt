@@ -1,0 +1,9 @@
+-Escape dialogues
+-Fix map borders
+
+-Upgrade 3d every buildings + upgrades
+
+-Camera improvements (zoom, default position, clamp move)
+-Improve outside Trees and rocks position
+
+(cheat code ctrl + r)

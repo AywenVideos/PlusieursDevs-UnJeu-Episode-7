@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06eefbecc46f9204b88ae2adfa60e71b, type: 3}
+  m_Name: QUEST_BUILD_TOWNHALL
+  m_EditorClassIdentifier: 
+  allDialogues:
+  - _personName: Maire de la ville
+    _dialogue: "Salut \xE0 toi !\nMerci d'avoir investit dans notre ville."
+    _icon: {fileID: 21300000, guid: f16ab6fddb00d144ab363a34f8dcc154, type: 3}
+  - _personName: Aywen
+    _dialogue: "Les capacit\xE9s ont \xE9t\xE9 augment\xE9es ! G\xE9nial !"
+    _icon: {fileID: 21300000, guid: ab8cbffb51b2a964d93bf544ec7603da, type: 3}
+  - _personName: Maire de la ville
+    _dialogue: "Et oui je sais ! N'h\xE9sitez \xE0 d\xE9velopper la ville avec moi
+      !\nAu fait je m'appelle DIMITRI"
+    _icon: {fileID: 21300000, guid: f16ab6fddb00d144ab363a34f8dcc154, type: 3}
+  - _personName: <color=blue><b>MAIRE</color></b> DIMITRI
+    _dialogue: "Enchant\xE9 !"
+    _icon: {fileID: 21300000, guid: f16ab6fddb00d144ab363a34f8dcc154, type: 3}

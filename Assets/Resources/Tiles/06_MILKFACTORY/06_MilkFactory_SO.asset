@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cfec29c7f0af4140acc62235cc05d25, type: 3}
+  m_Name: 06_MilkFactory_SO
+  m_EditorClassIdentifier: 
+  tileId: 6
+  icon: {fileID: 21300000, guid: 78ecea38626c56545a4f2f09639218b6, type: 3}
+  tileName: "Usine \xE0 Lait"
+  slug: milkfactory_01
+  tilePrefab: {fileID: 8201059920584414079, guid: b4dd0603f49a6cd47a356af08066495d, type: 3}
+  canBeDestroy: 1
+  availableInShop: 1
+  milkCost: 0
+  goldCost: 100
+  emeraldCost: 5
+  width: 4
+  height: 5
+  offsetSelectedTileText: {x: -1.94, y: 9.9, z: -0.43}
+  health: 1000
+  description: 
+  upgrades:
+  - goldCost: 100
+    milkCost: 0
+    productionMultiplier: 1.5
+  - goldCost: 250
+    milkCost: 0
+    productionMultiplier: 2
+  Unlocked: 0
+  UnlockNode:
+  - building: {fileID: 11400000, guid: 01c4227f9fb77bb42807f7388c39a1dd, type: 2}
+    goldCost: 200
+    milkCost: 0
+    emeraldCost: 10

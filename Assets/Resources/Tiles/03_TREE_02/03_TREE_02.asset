@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fea3c6e163951444a92f221bd823ef4a, type: 3}
+  m_Name: 03_TREE_02
+  m_EditorClassIdentifier: 
+  tileId: 3
+  tileName: Arbre
+  slug: tree_02
+  tilePrefab: {fileID: 8961077347213038332, guid: 62140df87a7093740861f6280eb65db3, type: 3}
+  width: 1
+  height: 1
+  offsetSelectedTileText: {x: 0, y: 0, z: 0}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73b453200a094980a1d31b4955d74d9a, type: 3}
+  m_Name: Aywenito
+  m_EditorClassIdentifier: 
+  unitName: Aywenito
+  icon: {fileID: 21300000, guid: ab8cbffb51b2a964d93bf544ec7603da, type: 3}
+  cost: 10
+  health: 500
+  attackDamage: 10
+  unitPrefab: {fileID: -937866227390103926, guid: 135af156c1c02044da0835d486ee9849, type: 3}
+  healthBarPrefab: {fileID: 7897518362762445142, guid: 98b608a3d46270da2ba776f63bcc1f7e, type: 3}
+  isEnemy: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06eefbecc46f9204b88ae2adfa60e71b, type: 3}
+  m_Name: QUEST_BUILD_CENTER
+  m_EditorClassIdentifier: 
+  allDialogues:
+  - _personName: Investisseur
+    _dialogue: Yo man, tu es venu investir dans les actions ?
+    _icon: {fileID: 21300000, guid: 747aae57465b2b74c8fa1e0722dade12, type: 3}
+  - _personName: Aywen
+    _dialogue: Yes, on va pouvoir se faire encore plus de thune !
+    _icon: {fileID: 21300000, guid: ab8cbffb51b2a964d93bf544ec7603da, type: 3}
+  - _personName: Investisseur
+    _dialogue: "Voil\xE0 la mentalit\xE9 qu'il faut avoir mon grand !"
+    _icon: {fileID: 21300000, guid: 747aae57465b2b74c8fa1e0722dade12, type: 3}
+  - _personName: Awyen
+    _dialogue: "Je vous rappelle qu'il faut avoir au moins 18 ans pour jouer et jouer
+      avec mod\xE9ration, jouer comporte des risques de pertes."
+    _icon: {fileID: 21300000, guid: ab8cbffb51b2a964d93bf544ec7603da, type: 3}
+  - _personName: Investisseur
+    _dialogue: Parlez-en avec votre pharmacien ?
+    _icon: {fileID: 21300000, guid: 747aae57465b2b74c8fa1e0722dade12, type: 3}
+  - _personName: Investisseur <color=red><b>CON
+    _dialogue: ..............
+    _icon: {fileID: 21300000, guid: 747aae57465b2b74c8fa1e0722dade12, type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cfec29c7f0af4140acc62235cc05d25, type: 3}
+  m_Name: 09_Center_SO
+  m_EditorClassIdentifier: 
+  tileId: 9
+  icon: {fileID: 21300000, guid: 259499bdec0a27a4d80942da3da0e22a, type: 3}
+  tileName: Investissement Center
+  slug: center_01
+  tilePrefab: {fileID: 4614709868171795598, guid: 15872f565ffceab4a91b78922ba9fa8d, type: 3}
+  canBeDestroy: 1
+  availableInShop: 1
+  milkCost: 100
+  goldCost: 500
+  emeraldCost: 30
+  width: 2
+  height: 2
+  offsetSelectedTileText: {x: 0, y: 0, z: 0}
+  health: 1000
+  description: Centre d'investissement pour les plus courageux des barbares, paris
+    sur des combats de rue, ou bien qui gagne dans un 1v1 Aywen Fuze ?
+  upgrades:
+  - goldCost: 100
+    milkCost: 50
+    productionMultiplier: 1.5
+  - goldCost: 250
+    milkCost: 100
+    productionMultiplier: 2
+  Unlocked: 0
+  UnlockNode:
+  - building: {fileID: 11400000, guid: 01c4227f9fb77bb42807f7388c39a1dd, type: 2}
+    goldCost: 200
+    milkCost: 40
+    emeraldCost: 20
