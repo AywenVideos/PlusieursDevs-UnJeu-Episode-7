@@ -1,4 +1,4 @@
-![Bannière PD1J](https://github.com/user-attachments/assets/8bb466c4-43aa-47f9-82b0-387ff6ebb641)
+<img width="3003" height="625" alt="Bannière PD1J" src="https://github.com/user-attachments/assets/cb816f69-3544-43ee-9b6e-eb7c26e44359" />
 
 Un jeu développé par plusieurs volontaires qui n'ont pas pu se parler pendant le développement.
 
